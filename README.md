@@ -80,7 +80,7 @@ The EPR system integrates the RFID module, LCD display, and keypad to create a c
 
    ```bash
     make
-    ```
+   ```
 
 ## Running the Project
 
@@ -90,7 +90,7 @@ The EPR system integrates the RFID module, LCD display, and keypad to create a c
 
    ```bash
     ./epr_program
-    ```
+   ```
 
 ## Code Explanation
 
